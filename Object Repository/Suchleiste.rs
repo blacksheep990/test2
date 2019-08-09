@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Suchleiste</name>
+   <tag></tag>
+   <elementGuidId>58f466dc-9508-446a-ba5d-58cfd967a9ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;tsf&quot;]/div[2]/div/div[1]/div/div[1]/input
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;tsf&quot;]/div[2]/div/div[1]/div/div[1]/input
+</value>
+   </webElementProperties>
+</WebElementEntity>
