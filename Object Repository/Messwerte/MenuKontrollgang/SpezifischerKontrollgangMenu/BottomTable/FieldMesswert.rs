@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FieldMesswert</name>
+   <tag></tag>
+   <elementGuidId>e5ddff62-ed10-47ba-9c11-6cb0e4822e7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;ctl00_ContentPlaceHolder1_MesswertEdit_DetailsGroupBox_MesswertNE&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;ctl00_ContentPlaceHolder1_MesswertEdit_DetailsGroupBox_MesswertNE&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

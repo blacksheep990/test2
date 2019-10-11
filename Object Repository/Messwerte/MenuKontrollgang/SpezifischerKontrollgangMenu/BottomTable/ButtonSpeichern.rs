@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ButtonSpeichern</name>
+   <tag></tag>
+   <elementGuidId>af0c37df-ece8-41d7-abf1-911add8b55f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;ctl00_ContentPlaceHolder1_MesswertEdit_DetailsGroupBox_ButtonSave__5&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;ctl00_ContentPlaceHolder1_MesswertEdit_DetailsGroupBox_ButtonSave__5&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

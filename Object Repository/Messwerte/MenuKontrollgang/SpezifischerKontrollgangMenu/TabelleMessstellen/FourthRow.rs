@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FourthRow</name>
+   <tag></tag>
+   <elementGuidId>25546182-d3ae-4444-81b1-04ec4c52e90a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//tr[@data-ig='x:921019516.20:adr:3:tag:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tr[@data-ig='x:921019516.20:adr:3:tag:']</value>
+   </webElementProperties>
+</WebElementEntity>

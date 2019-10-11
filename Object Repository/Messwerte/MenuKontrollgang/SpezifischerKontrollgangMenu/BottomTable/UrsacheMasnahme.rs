@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UrsacheMasnahme</name>
+   <tag></tag>
+   <elementGuidId>7c495f02-ea96-4e70-ae24-81920e220a35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;ctl00_ContentPlaceHolder1_MesswertEdit_DetailsGroupBox_UrsacheMassnahmeTE&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;ctl00_ContentPlaceHolder1_MesswertEdit_DetailsGroupBox_UrsacheMassnahmeTE&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

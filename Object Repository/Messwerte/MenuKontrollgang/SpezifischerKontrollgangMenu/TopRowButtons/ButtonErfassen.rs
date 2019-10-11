@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ButtonErfassen</name>
+   <tag></tag>
+   <elementGuidId>8b2408e6-c995-41f7-90c6-6f142dba8d8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//td[@id='ctl00_ContentPlaceHolder1_ButtonErfassen__5']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//td[@id='ctl00_ContentPlaceHolder1_ButtonErfassen__5']</value>
+   </webElementProperties>
+</WebElementEntity>
